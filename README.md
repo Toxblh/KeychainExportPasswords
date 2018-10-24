@@ -141,7 +141,7 @@ If I had more knowledge of the UI elements or could script to get a list of them
 Save the text file and rename it to WhatEverYouWant.csv and it should be importable into 1Password immediately.
 
 ```applescript
-> -- OPEN SAFARI. GOTO PREFERENCES. CLICK PASSWORDS TAB --
+-- OPEN SAFARI. GOTO PREFERENCES. CLICK PASSWORDS TAB --
 -- THIS FIRST REPEAT SECTION IS JUST TO GET TO THE PASSWORDS SCREEN AND LOGIN TO ICLOUD --
 repeat 1 times
     tell application "Safari"
