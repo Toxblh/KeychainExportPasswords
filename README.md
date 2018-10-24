@@ -1,6 +1,10 @@
 # KeychainExportPasswords
 Export you password from Keychain for another password keepers
 
+You can try:
+- [First version](https://github.com/Toxblh/KeychainExportPasswords/blob/master/README.md#first-version)
+- [Second version](https://github.com/Toxblh/KeychainExportPasswords/blob/master/README.md#second-version)
+
 # First version
 Notes:
 
