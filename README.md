@@ -121,7 +121,7 @@ end repeat
 end run
 ```
 
-Original https://discussions.agilebits.com/discussion/comment/455708/#Comment_455708
+Source: https://discussions.agilebits.com/discussion/comment/455708/#Comment_455708
 
 
 # Second version
@@ -290,3 +290,5 @@ repeat while (x ≤ 207)
 end repeat
 end run
 ```
+
+Source: https://discussions.agilebits.com/discussion/comment/465689/#Comment_465689
