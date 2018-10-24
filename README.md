@@ -5,6 +5,9 @@ You can try:
 - [First version](https://github.com/Toxblh/KeychainExportPasswords/blob/master/README.md#first-version)
 - [Second version](https://github.com/Toxblh/KeychainExportPasswords/blob/master/README.md#second-version)
 
+### Before all 
+<img src="https://us.v-cdn.net/5020219/uploads/editor/pc/ibknuc1xo8qz.png" width="450px" />
+
 # First version
 Notes:
 
