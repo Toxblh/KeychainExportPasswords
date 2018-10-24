@@ -134,8 +134,6 @@ Source: https://discussions.agilebits.com/discussion/comment/455708/#Comment_455
 
 # Second version
 
-I wrote an updated script with the help of MrC, pken and nickhass. This one functions the same way as pken's script above, but automates it further and doesn't require any external tools like MouseTools. It even logs into the Safari Password Preferences screen for you.If I knew more about Mac OS X UI Elements, I'm sure I could automate opening Safari, going to Preferences, choosing the Password tab and logging in, etc. However, this works and it's still fairly easy to execute. Takes about 8 seconds per URL/username/password combo to run. The 206 I had took approximately 30 minutes to run.
-
 Steps:
 - Open Safari, go to Preferences and click on the Password tab.
 - Open TextEdit, go to Format menu and click "Make Plain Text".
@@ -145,9 +143,7 @@ Steps:
 - Click the Play button in script editor and you should be off and running.
 - I've noticed that sometimes it won't put in the password because the field isn't highlighted. If that happens, stop the script, empty the TextEdit file and click on one of the other Preferences tabs and then click back on the Passwords tab and try running the script again.
 
-If I had more knowledge of the UI elements or could script to get a list of them, we could ensure that the password field gets highlighted and is ready to accept the password that the script is trying to pass into it. With a few tweaks, this could literally open Safari, go to the right screen, put in your iCloud password and begin pulling logins all on its' own.
-
-Save the text file and rename it to WhatEverYouWant.csv and it should be importable into 1Password immediately.
+For improve speed you can change dalays to 0.1 instead of last in `THIS FIRST REPEAT SECTION`
 
 ```applescript
 -- OPEN SAFARI. GOTO PREFERENCES. CLICK PASSWORDS TAB --
